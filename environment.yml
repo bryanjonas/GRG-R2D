@@ -15,3 +15,13 @@ dependencies:
   - tensorflow-gpu
   - cudatoolkit
  ### You can add more below in the same format (eg. - packagename)
+  - pycocotools
+  - imgaug
+  - keras
+  - pandas
+  - numpy
+  - xlrd
+  - imutils
+  - argparse
+  - scikit-image
+  - pillow
