@@ -18,7 +18,5 @@ dependencies:
   - keras
   - pandas
   - numpy
-  - imutils
-  - argparse
-  - scikit-image
-  - pillow
+  - opencv2
+  - matplotlib
