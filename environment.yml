@@ -18,5 +18,5 @@ dependencies:
   - keras
   - pandas
   - numpy
-  - opencv2
+  - opencv
   - matplotlib
