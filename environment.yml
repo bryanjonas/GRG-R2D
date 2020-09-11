@@ -20,5 +20,4 @@ dependencies:
   - numpy
   - opencv
   - matplotlib
-  - rasterio
-  - imantics
+  - imutils
